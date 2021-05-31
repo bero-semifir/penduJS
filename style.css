@@ -1,0 +1,35 @@
+body{
+    background-color: cornflowerblue;
+}
+
+section{
+    font-size: 2em;
+    display: flex;
+    justify-content: space-around;
+}
+#devine{
+    font-size: 3em;
+    text-align: center;
+    margin : 5%;
+    border: 10px ridge darkslateblue;
+}
+
+#message{
+    font-size: 3em;
+    text-align: center;
+    margin : 5%;
+    border: 10px ridge darkslateblue; 
+}
+
+input{
+    margin-top : +2%;
+    background-color: cornflowerblue;
+    max-width: 2em;
+    max-height: 2em;
+    font-size: 2em;
+}
+
+header{
+    text-align: center;
+    font-size: 3em;
+}
